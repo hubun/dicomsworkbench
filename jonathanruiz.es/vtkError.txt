@@ -1,0 +1,84 @@
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
+Generic Warning: In /build/buildd/vtk-5.8.0/Rendering/vtkTextActor.cxx, line 823
+ScaledTextOn was deprecated for 5.4 and will be removed in a future version.  Use SetTextScaleModeToProp instead.
+
+
